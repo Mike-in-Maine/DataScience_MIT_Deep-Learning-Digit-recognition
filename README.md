@@ -12,7 +12,5 @@ Our objective is to predict the number depicted inside the image by using Artifi
  
 
 Dataset:
-Our dataset is present in .h5 format. We will use a subset of our dataset to save ourselves a lot of computation time.
+Our dataset is present in .h5 format. We will use a subset of our dataset to save ourselves a lot of computation time. This is for demonstration only.
 
-Please do not change the variable names to avoid hassles while executing the code.
-You can raise your issues on the project discussion forum on Olympus.
