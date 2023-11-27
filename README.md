@@ -1,5 +1,5 @@
 **No dataset, why?**
-This dataset is about 440,000 KB or 440MB and it cannot be uploaded to githum. Shoot me an email and I will send it to you.
+This dataset is about 440,000 KB or 440MB and it cannot be uploaded to github. Shoot me an email and I will send it to you.
 
 
 **Description**
